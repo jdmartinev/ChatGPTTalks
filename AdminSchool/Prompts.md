@@ -34,3 +34,11 @@
 ## 6. Crea una agenda para una reunión del comité directivo y otras reuniones
 
 `prompt`: *¿Cómo luce la agenda para una reunión del comité directivo de un proyecto?*
+
+## 7. Traducir texto a otros lenguajes
+
+`prompt`: *Traduce el siguiente texto a Mandarin: Hola, bienvenido a mi tienda virtual
+
+## 8. Escribir e-mails
+
+`prompt`: *¿Podrías escribir un correo electrónico amistoso pero formal a mis compañeros de trabajo, invitándolos a nuestro lanzamiento de proyecto? Fecha: 13 de marzo de 2023. Hora: 2-4pm. Ubicación: Gran Salón.*
