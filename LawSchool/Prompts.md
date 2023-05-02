@@ -4,6 +4,8 @@
 [Resuelven en Colombia el primer caso jurídico con la ayuda de robot ChatGPT](https://www.dw.com/es/resuelven-en-colombia-el-primer-caso-jur%C3%ADdico-con-la-ayuda-de-robot-chatgpt/a-64597510#:~:text=Un%20juez%20de%20Colombia%20resolvi%C3%B3,inteligencia%20artificial%20en%20el%20pa%C3%ADs)
 
 [Curso UBA](https://ialab.com.ar/posgradoiayderecho2023/)
+
+[Laboratorio UBA](https://ialab.com.ar/)
  
  
  ## 1. Generación de ideas para talleres y reuniones 
