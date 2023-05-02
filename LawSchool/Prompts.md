@@ -1,4 +1,7 @@
-﻿# ChatGPT en la gestión de proyectos: 8 casos de uso sencillos
+﻿# ChatGPT en investigación legal
+ 
+ 
+ [Caso real]([https://link-url-here.org](https://www.dw.com/es/resuelven-en-colombia-el-primer-caso-jur%C3%ADdico-con-la-ayuda-de-robot-chatgpt/a-64597510#:~:text=Un%20juez%20de%20Colombia%20resolvi%C3%B3,inteligencia%20artificial%20en%20el%20pa%C3%ADs))
  
  
  ## 1. Generación de ideas para talleres y reuniones 
@@ -6,12 +9,8 @@
  `prompt`: *¿Podrías darme 10 ideas creativas para iniciar un taller sobre ChatGPT en la educación?* 
  
  `prompt`: *Dame 10 ideas creativas para comenzar un proyecto utilizando ChatGPT en la educación.*
- 
- ## 2. Crear informes de mercado
- 
-`prompt`: *Por favor, actúa como consultor de negocios y genera un informe sobre el estado actual del mercado de comercio electrónico de bicicletas y proporciona información sobre posibles oportunidades de crecimiento para nuestro negocio. Estructura estos hallazgos en 5 gráficos de Power Point que incluyan títulos de acción y tres viñetas por diapositiva.*
 
-## 3. Identifica los conceptos básicos para un nuevo proyecto
+## 2. Identifica los conceptos básicos para un nuevo proyecto
 
 `prompt`: *¿Cuáles son los 10 principales KPIs para la industria automotriz?*
 
@@ -19,26 +18,21 @@
 
 `prompt`: *Escribe una lista de las 10 principales marcas de automóviles chinas*
 
-## 4. Genera ideas para las tareas actuales de un proyecto
-
-`prompt`: *Genera 10 ideas innovadoras y creativas para reducir los costos logísticos en una empresa minorista*
-
-`prompt`: *¿Qué medidas han tomado las empresas minoristas en los últimos 5 años para reducir costos?*
-
-`prompt`: *Nombre 10 herramientas de gestión de proyectos con buenas calificaciones y retroalimentación de los clientes. Agrega su página de inicio y colócalas en una tabla*
-
-## 5. Gestionar los riesgos del proyecto
-
-`prompt`: *Por favor, responda como consultor de negocios: En el comité directivo de mis proyectos, los interesados nunca toman decisiones. ¿Tiene alguna solución?*
-
-## 6. Crea una agenda para una reunión del comité directivo y otras reuniones
-
-`prompt`: *¿Cómo luce la agenda para una reunión del comité directivo de un proyecto?*
-
-## 7. Traducir texto a otros lenguajes
+## 3. Traducir texto a otros lenguajes
 
 `prompt`: *Traduce el siguiente texto a Mandarin: Hola, bienvenido a mi tienda virtual
 
-## 8. Escribir e-mails
+## 4. Escribir e-mails
 
 `prompt`: *¿Podrías escribir un correo electrónico amistoso pero formal a mis compañeros de trabajo, invitándolos a nuestro lanzamiento de proyecto? Fecha: 13 de marzo de 2023. Hora: 2-4pm. Ubicación: Gran Salón.*
+
+## 5. Ejemplos de escritos judiciales
+
+`prompt`: Mi cliente era un espectador en un espectáculo de fuegos artificiales. Debido a la negligencia del organizador del evento, mi cliente sufrió algunos daños. Por favor, redacte un ejemplo de escritura legal para reclamar por los daños recibidos. Esto pasó en Medellín, Colombia.
+
+`prompt`: Please draft an Orange County California complaint for employment discrimination based on hair texture. Include citations to relevant California law.
+
+`propmpt`: Por favor, redacte una queja por discriminación laboral basada en la textura del cabello. Incluya referencias a la legislación relevante de Colombia.
+
+## 6. Redacción de Ejemplos de Solicitudes o Peticiones
+
