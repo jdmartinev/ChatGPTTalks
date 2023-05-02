@@ -38,7 +38,7 @@
 
 `propmpt`: Por favor, redacte una queja por discriminación laboral basada en la textura del cabello. Incluya referencias a la legislación relevante de Colombia.
 
-## 6. Redacción de ejemplos de solicitudes o peticiones
+
 
 
 
