@@ -1,7 +1,7 @@
 ﻿# ChatGPT en investigación legal
  
  
-[Caso real](https://www.dw.com/es/resuelven-en-colombia-el-primer-caso-jur%C3%ADdico-con-la-ayuda-de-robot-chatgpt/a-64597510#:~:text=Un%20juez%20de%20Colombia%20resolvi%C3%B3,inteligencia%20artificial%20en%20el%20pa%C3%ADs))
+[Caso real](https://www.dw.com/es/resuelven-en-colombia-el-primer-caso-jur%C3%ADdico-con-la-ayuda-de-robot-chatgpt/a-64597510#:~:text=Un%20juez%20de%20Colombia%20resolvi%C3%B3,inteligencia%20artificial%20en%20el%20pa%C3%ADs)
  
  
  ## 1. Generación de ideas para talleres y reuniones 
